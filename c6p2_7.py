@@ -4,6 +4,9 @@ def luasSegitiga2(a,t):
       'dan tinggi',t,
       'adalah',luas)
 
-a = 15
-t = 45
-luasSegitiga2(a,t)
+alas = 10
+tinggi = 20
+alas1 = 15
+tinggi1 = 45
+luasSegitiga2(alas, tinggi)
+luasSegitiga2(alas1, tinggi1)
